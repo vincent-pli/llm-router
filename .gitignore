@@ -1,0 +1,26 @@
+
+# data & resources
+outputs/
+assets/
+temp/
+
+# setup
+data_juicer.egg-info/
+py_data_juicer.egg-info/
+py_data_flow.egg-info/
+build/
+dist
+
+# others
+.DS_Store
+.idea/
+wandb/
+__pycache__
+.vscode/
+.llm-router
+Dockerfile
+docker-compose.yml
+configs/persistances/
+demos/data/test
+py_llm_router.egg-info
+log/
